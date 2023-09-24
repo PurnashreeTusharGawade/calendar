@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(234, 236, 220);
+
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+table{
+    margin:5px;
+}
